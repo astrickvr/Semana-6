@@ -1,0 +1,88 @@
+style.css
+header h1{
+	font-family: Generica Bold;
+	font-size: 350px;
+	text-align: justify;
+	text-transform: uppercase;
+}
+}
+h5{
+	font-family:Code;
+	font-size: 60px;
+	text-align: justify;
+}
+body{
+	background-color: #D67BFE;
+}
+p{
+	font-family: Code;
+	font-size: 20px;
+	text-align: justify;
+}
+header{
+	font-family:Code;
+	font-size: 25px;
+	text-align: justify;
+}
+
+section{
+	margin-left: 300px;
+	border:200px;
+	padding: 25px;
+	font-family: Code;
+	background-color: #E19FFF;
+}
+
+ul{
+	font-family: Code;	
+	font-size: 30px; 
+	text-align: justify;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+header ul{
+	list-style-type: none;
+	margin:0;
+	padding: 16px 14px;
+	font-family: Code;
+	background-color: #BA5EFE;
+}
+
+li{
+    float: right;
+    text-align: justify;
+    font-size: 20px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ol{
+	font-family: Code;	
+	font-size: 30px; 
+	text-align: justify;
+	font-size: 25px;
+	color: #000000;
+}
+aside{
+	float:left;
+	max-width:220px;
+	margin:0;
+	padding:1em;
+	height:253px;
+	background-color: #A569BD;
+}
+section h1{
+	font-size: 40px;	
+	text-transform: uppercase;
+}
+section h2{
+	font-size: 40px;
+	text-transform: uppercase;
+}
